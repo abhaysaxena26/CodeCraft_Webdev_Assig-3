@@ -1,0 +1,9 @@
+.stats-container{
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    margin-left: 88vh;
+}
+.stats-container li{
+    font-size: larger;
+}

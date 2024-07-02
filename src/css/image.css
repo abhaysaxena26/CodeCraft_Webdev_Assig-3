@@ -1,0 +1,20 @@
+.image-container{
+    width: 300px;
+    height: 300px;
+    margin-bottom: 50px;
+    margin-left: 79vh;
+}
+
+.image-container img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.image-container h3{
+    margin-top: 0;
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 25px;
+}
